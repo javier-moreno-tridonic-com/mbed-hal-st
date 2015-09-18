@@ -17,6 +17,9 @@
   "targetDependencies": {
     "stm32f4": {
       "mbed-hal-st-stm32f4": "~0.2.0"
+    },
+	"stm32f0": {
+      "mbed-hal-st-stm32f0": "~0.0.0"
     }
   }
 }
